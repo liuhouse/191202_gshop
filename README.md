@@ -30,3 +30,11 @@ npm install less --save-dev
 
 安装vuex
 npm install vuex --save-dev
+
+
+将代码上传至github
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/liuhouse/liuhouse.git
+git push -u origin master
