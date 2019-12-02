@@ -32,9 +32,12 @@ npm install less --save-dev
 npm install vuex --save-dev
 
 
-将代码上传至github
+将代码上传至github   ==== 这里代表的是创建
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/liuhouse/liuhouse.git
+git remote add origin https://github.com/liuhouse/191202_gshop
 git push -u origin master
+
+学习地址
+https://blog.csdn.net/qq_36257407/article/details/85090560
